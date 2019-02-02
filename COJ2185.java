@@ -1,3 +1,6 @@
+// Diego Estrada Talamantes
+// devdiegoest@gmail.com
+
 import java.util.Scanner;
 public class COJ2185{
 
