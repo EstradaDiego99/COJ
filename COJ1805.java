@@ -1,15 +1,16 @@
 import java.util.Scanner;
-public class COJ1312{
+public class COJ1805{
 
     public static void main(String[] args) {
         
         Scanner scan = new Scanner(System.in);
 
-        int r1 = scan.nextInt();
-        int s = scan.nextInt();
+        long a = scan.nextInt();
+        long b = scan.nextInt();
 
-        int output = (2*s)-r1;
+        long output = 2*(a+b);
         System.out.println(output);
+        
     }
     
 }
